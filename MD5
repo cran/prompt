@@ -1,11 +1,11 @@
-63f257d793641c92c465dc5028bab755 *DESCRIPTION
+f57ba49bddd8d5c6de1a2345cee347a8 *DESCRIPTION
 6c9dda2b190c061ab429e33f8d13a204 *LICENSE
 37fb36a7a4fd05bcb20a5a37d25d6360 *NAMESPACE
-104b43a7414eeb73afc5f408f76d9163 *NEWS.md
+5eea4457d8e975fbd0588ebddc1b1746 *NEWS.md
 1d23047dc1bae1255c2234a3236c2193 *R/package.R
-8c6dba7b9a27cb5a2d08ad94b7143c24 *R/prompt-devtools.R
+0f7068a642995cf7035d776f34062e94 *R/prompt-devtools.R
 e0cc0092d9e42f67433c0538825dbb10 *R/prompt-fancy.R
-cb3e1e00d0de6df37287d497c4c580ce *R/prompt-git.R
+ea93e4c55d20720f6a45cbd962ff2d11 *R/prompt-git.R
 d7a15d189647ad2a5a9df0b34592a315 *R/prompt-mem.R
 2a33a5f4c99ccdac6849cb436ae544ac *R/prompt-powerline.R
 874013e4e693144c897d4e6c2a644092 *R/prompt-runtime.R
@@ -16,9 +16,9 @@ fe5d0e7464286dd1e07746d3da593ad9 *R/sizes.R
 1574cfc3ff06d70bbe6dd45931f3ae57 *inst/prompt-screenshot.png
 5878245be15389186b1301f67a95b262 *man/new_prompt_powerline.Rd
 0febe7c859f1f2b8174b6e967b971dd9 *man/prompt.Rd
-dba7d7c57dfd8041050304ddc8d39034 *man/prompt_devtools.Rd
+21af90a9b33de2e4d4773a000c946f48 *man/prompt_devtools.Rd
 eb1b459a2775e97a29c9962e885bdf5a *man/prompt_fancy.Rd
-0278c5bbe6538b70d722c59d91dae3f9 *man/prompt_git.Rd
+f6ec28ff7c88d00fea5b95ebd34bc15d *man/prompt_git.Rd
 e9dff10c8b2b642dd227346e26effeab *man/prompt_mem.Rd
 18dece3eba8f56f7df56c9aa809e471a *man/prompt_runtime.Rd
 f1867abebf2eff1377f1b05e5596b59e *man/prompt_status.Rd
@@ -35,7 +35,7 @@ cca6ecd4b4240b45b1214739b2800433 *tests/testthat/_snaps/prompt-git.md
 042fe92bbbabca24d437fcb1f43957aa *tests/testthat/test-package.R
 062d8628d621ded05a9bf3fee189d21a *tests/testthat/test-prompt-devtools.R
 3bf29038d358284f5595d94b61342c6e *tests/testthat/test-prompt-fancy.R
-7b4ab4abd7372635c7d01ef965cf75d3 *tests/testthat/test-prompt-git.R
+6305ab6bcac375c51106b0c3741f02de *tests/testthat/test-prompt-git.R
 6f20cf207e5a5a5fe205628f630a8d2c *tests/testthat/test-prompt-mem.R
 0ea88762344317c4a2acf9e4ae0d1779 *tests/testthat/test-prompt-status.R
 5f64016339da68ecfe57f84f2b9e57c1 *tests/testthat/test-utils.R
