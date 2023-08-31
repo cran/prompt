@@ -1,8 +1,8 @@
-f57ba49bddd8d5c6de1a2345cee347a8 *DESCRIPTION
+e3ac12d5c17c120e576eb0c3e7ce2709 *DESCRIPTION
 6c9dda2b190c061ab429e33f8d13a204 *LICENSE
 37fb36a7a4fd05bcb20a5a37d25d6360 *NAMESPACE
-5eea4457d8e975fbd0588ebddc1b1746 *NEWS.md
-1d23047dc1bae1255c2234a3236c2193 *R/package.R
+68867d11183b58efe750db6dcb229f1e *NEWS.md
+7578061ff30d4d07d7bc93cde9a6aa41 *R/package.R
 0f7068a642995cf7035d776f34062e94 *R/prompt-devtools.R
 e0cc0092d9e42f67433c0538825dbb10 *R/prompt-fancy.R
 ea93e4c55d20720f6a45cbd962ff2d11 *R/prompt-git.R
@@ -12,10 +12,10 @@ d7a15d189647ad2a5a9df0b34592a315 *R/prompt-mem.R
 8ad1b8af31c3aad46f691d9acb8ede0a *R/prompt-status.R
 fe5d0e7464286dd1e07746d3da593ad9 *R/sizes.R
 018d461563f18d93a3013b2d88ebc1c6 *R/utils.R
-9d84e2c0fc40e3c06e744f4b847c66de *README.md
+0d40b22cfbba3d753159cb57c55f145b *README.md
 1574cfc3ff06d70bbe6dd45931f3ae57 *inst/prompt-screenshot.png
 5878245be15389186b1301f67a95b262 *man/new_prompt_powerline.Rd
-0febe7c859f1f2b8174b6e967b971dd9 *man/prompt.Rd
+44c1d6bf6191a6e6bca86104e7cda9a3 *man/prompt.Rd
 21af90a9b33de2e4d4773a000c946f48 *man/prompt_devtools.Rd
 eb1b459a2775e97a29c9962e885bdf5a *man/prompt_fancy.Rd
 f6ec28ff7c88d00fea5b95ebd34bc15d *man/prompt_git.Rd
